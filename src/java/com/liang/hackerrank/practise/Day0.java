@@ -1,9 +1,12 @@
+package com.liang.hackerrank.practise;
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
-public class Solution {
+
+public class Day0 {
 	public static void main(String[] args) {
         // Create a Scanner object to read input from stdin.
 		Scanner scan = new Scanner(System.in); 

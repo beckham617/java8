@@ -1,10 +1,12 @@
+package com.liang.hackerrank.practise;
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Solution {
+public class Day1 {
 	
     public static void main(String[] args) {
         int i = 4;
